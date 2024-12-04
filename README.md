@@ -5,6 +5,9 @@ This project demonstrates my ability to clean and transform the FIFA 21 dataset 
 
 ---
 
+![FIFA 21 Image](link_to_image_or_local_image)
+
+
 ## **Skills Demonstrated**  
 - Data cleaning and transformation in Excel and Power Query.  
 - Handling inconsistencies in data formatting and structure.  
