@@ -8,6 +8,7 @@ This project demonstrates my ability to clean and transform the FIFA 21 dataset 
 ![FIFA 21 Image](https://github.com/Naveennnkumar-Bit/FIFA21-Data-Transformation/blob/main/Fifa%2021.jpg)
 
 
+
 ## **Skills Demonstrated**  
 - Data cleaning and transformation in Excel and Power Query.  
 - Handling inconsistencies in data formatting and structure.  
