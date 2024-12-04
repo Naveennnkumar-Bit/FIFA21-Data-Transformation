@@ -1,83 +1,42 @@
-# FIFA 21 Dataset Cleaning and Transformation ⚽📊
+# FIFA 21 Dataset Cleaning and Transformation ⚽📊  
 
-This project focuses on cleaning and transforming the FIFA 21 dataset to improve its quality, consistency, and readiness for analysis. The cleaning process involves addressing quality issues, applying transformations, and standardizing data using Excel and Power Query.
+## **Overview**  
+This project showcases my expertise in data cleaning and transformation by addressing real-world data quality issues in the FIFA 21 dataset. The goal was to prepare the dataset for analysis by ensuring consistency, accuracy, and usability.  
 
----
+## **Skills Demonstrated**  
+- Advanced Excel techniques, including Power Query transformations.  
+- Data standardization and format unification.  
+- Problem-solving for real-world messy datasets.  
 
-## **Project Objectives** 🎯  
-1. Ensure data accuracy and consistency for reliable analysis.  
-2. Standardize data formats and remove inconsistencies.  
-3. Improve the usability of the dataset by implementing advanced cleaning techniques.  
+## **Project Highlights**  
+- Addressed challenges in inconsistent wage and contract data.  
+- Standardized height and weight formats for uniformity.  
+- Applied advanced transformations to streamline the data cleaning process.  
 
----
+## **Dataset Summary**  
+- **Source**: FIFA 21 player data.  
+- **Key Columns**: Player names, ratings, contracts, ages, wages, and physical attributes.  
 
-## **Key Steps and Processes**  
+## **Challenges and Solutions**  
+1. **Inconsistent Wage Formats**  
+   - **Problem**: Wages were represented in varying formats (e.g., "€100K").  
+   - **Solution**: Used Power Query to unify and convert values.  
 
-### **1. Analyzing and Filtering Data**  
-- Performed an initial examination to identify data quality issues, such as missing values, inconsistent formats, and outliers.  
+2. **Contract Start and End Dates**  
+   - **Problem**: Dates were unstructured.  
+   - **Solution**: Separated and standardized the dates for clarity.  
 
-### **2. Cleaning Player Ratings**  
-- Assessed and refined player ratings data to ensure accuracy and uniformity across the dataset.  
+## **Key Takeaways**  
+- Enhanced the dataset's analytical readiness.  
+- Improved data consistency for actionable insights.  
 
-### **3. Removing Extra Spaces and Analyzing Character Lengths**  
-- Removed unnecessary whitespace and standardized character lengths for consistent formatting.  
+## **Visuals**  
+_Before and After Screenshots_  
+(Include screenshots here.)  
 
-### **4. Attention to Detail in Player Names**  
-- Cleaned player names meticulously, focusing on accuracy and uniformity.  
+## **Future Improvements**  
+- Explore automation for similar cleaning tasks using Python.  
+- Perform detailed exploratory data analysis (EDA) on the cleaned dataset.  
 
-### **5. Extracting Player Names and IDs**  
-- Identified and extracted relevant player identification data for easier referencing.  
-
-### **6. Advanced Transformations**  
-- Applied advanced Power Query transformations to streamline data cleaning and improve processing efficiency.  
-
-### **7. Editing Mistakes in Power Query**  
-- Identified and corrected errors made during the transformation process to ensure accuracy.  
-
-### **8. Transforming Player Ages**  
-- Addressed unusual characters in the age column and standardized age data for consistent formatting.  
-
-### **9. Cleaning Contract Data**  
-- Separated contract start and end dates and created conditional columns to analyze contract statuses effectively.  
-
-### **10. Filtering Loan-Related Date Columns**  
-- Addressed issues specific to loan-related data columns to improve data clarity and usability.  
-
-### **11. Merging Contract Information**  
-- Consolidated contract data to provide a clear and comprehensive view of player contracts.  
-
-### **12. Standardizing Height and Weight**  
-- Converted height from centimeters to inches and standardized weight measurements for uniformity.  
-
-### **13. Cleaning Wage Columns**  
-- Processed wage data by converting numerical values and handling notations like 'K' for thousands.  
-
-### **14. Duplicating Data Cleaning Steps**  
-- Reapplied successful cleaning methods to related columns for consistency.  
-
-### **15. Renaming and Transforming Columns**  
-- Finalized column names and formats for better clarity and usability.  
-
-### **16. Correcting Data Multiplication Errors**  
-- Verified and corrected all multiplication operations performed during data cleaning.  
-
-### **17. Finalizing Data Cleaning**  
-- Completed all cleaning procedures to ensure the dataset is ready for analysis.  
-
----
-
-## **Outcomes** 🏆  
-- Improved data quality, consistency, and usability.  
-- Enhanced analytical readiness of the FIFA 21 dataset.  
-- Streamlined data for easier interpretation and actionable insights.  
-
----
-
-## **Tools Used** 🛠️  
-- **Excel**: For data cleaning and transformation.  
-- **Power Query**: To apply advanced transformations and automate repetitive cleaning tasks.  
-
----
-
-## **Contact** ✉️  
-For any queries or feedback, feel free to reach out!  
+## **Contact**  
+Feel free to reach out with feedback or questions!  
