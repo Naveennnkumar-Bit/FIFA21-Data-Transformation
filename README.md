@@ -1,42 +1,45 @@
-# FIFA 21 Dataset Cleaning and Transformation ⚽📊  
+# FIFA 21 Dataset Cleaning and Transformation ⚽📊
 
 ## **Overview**  
-This project showcases my expertise in data cleaning and transformation by addressing real-world data quality issues in the FIFA 21 dataset. The goal was to prepare the dataset for analysis by ensuring consistency, accuracy, and usability.  
+This project demonstrates my ability to clean and transform the FIFA 21 dataset to ensure accuracy, consistency, and usability for analysis. Using Excel and Power Query, I addressed various data quality issues and prepared the dataset for deeper analysis.
+
+---
 
 ## **Skills Demonstrated**  
-- Advanced Excel techniques, including Power Query transformations.  
-- Data standardization and format unification.  
-- Problem-solving for real-world messy datasets.  
+- Data cleaning and transformation in Excel and Power Query.  
+- Handling inconsistencies in data formatting and structure.  
+- Improving data quality for accurate analysis.
 
-## **Project Highlights**  
-- Addressed challenges in inconsistent wage and contract data.  
-- Standardized height and weight formats for uniformity.  
-- Applied advanced transformations to streamline the data cleaning process.  
-
-## **Dataset Summary**  
-- **Source**: FIFA 21 player data.  
-- **Key Columns**: Player names, ratings, contracts, ages, wages, and physical attributes.  
+---
 
 ## **Challenges and Solutions**  
-1. **Inconsistent Wage Formats**  
-   - **Problem**: Wages were represented in varying formats (e.g., "€100K").  
-   - **Solution**: Used Power Query to unify and convert values.  
 
-2. **Contract Start and End Dates**  
-   - **Problem**: Dates were unstructured.  
-   - **Solution**: Separated and standardized the dates for clarity.  
+- **Data Quality Issues**: Identified and filtered out missing values and inconsistencies in various columns.  
+- **Player Ratings & Names**: Refined player ratings and cleaned player names for consistency.  
+- **Contract Data**: Separated start/end dates, merged columns, and standardized contract information.  
+- **Wage & Height/Weight Data**: Standardized wage data and converted height/weight units for consistency.  
+- **Power Query Transformations**: Applied advanced transformations to automate and streamline data cleaning.  
+- **Final Review**: Performed a comprehensive review to ensure all cleaning steps were applied correctly.
+
+---
+
+## **Tools Used** 🛠️  
+- **Excel**: For data cleaning and transformations.  
+- **Power Query**: To automate complex transformations and enhance efficiency.
+
+---
 
 ## **Key Takeaways**  
-- Enhanced the dataset's analytical readiness.  
-- Improved data consistency for actionable insights.  
+- Ensured the dataset was ready for analysis by addressing quality issues.  
+- Standardized key attributes like player ratings, contract details, and physical data.  
 
-## **Visuals**  
-_Before and After Screenshots_  
-(Include screenshots here.)  
+---
 
 ## **Future Improvements**  
-- Explore automation for similar cleaning tasks using Python.  
-- Perform detailed exploratory data analysis (EDA) on the cleaned dataset.  
+- Automate cleaning tasks using Python.  
+- Conduct exploratory data analysis (EDA) on the cleaned dataset.
 
-## **Contact**  
+---
+
+## **Contact** ✉️  
 Feel free to reach out with feedback or questions!  
